@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Bulks_TPS_RestAPI", "Read_Bulks_TPS_RestAPI\Read_Bulks_TPS_RestAPI.csproj", "{9FA1A3DD-BBF1-48AF-8A58-9DEED2A8D5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA1A3DD-BBF1-48AF-8A58-9DEED2A8D5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA1A3DD-BBF1-48AF-8A58-9DEED2A8D5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA1A3DD-BBF1-48AF-8A58-9DEED2A8D5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA1A3DD-BBF1-48AF-8A58-9DEED2A8D5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCB60EC1-55CF-4F85-8C56-CDD6A38C5CAC}
+	EndGlobalSection
+EndGlobal
