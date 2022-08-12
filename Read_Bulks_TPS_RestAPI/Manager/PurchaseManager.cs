@@ -4,7 +4,7 @@ using Read_Bulks_TPS_RestAPI.Repositories;
 namespace Read_Bulks_TPS_RestAPI.Manager
 {
 
-    //Bussnies logic - Return the filter list to purchase controller from stub list. 
+    //Business logic - Return the filtered list to purchase controller from the stub method. 
     public class PurchaseManager : IPurchaseManager
     {
         private readonly IPurchaseRepository _purchaseRepository;
