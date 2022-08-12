@@ -2,6 +2,7 @@
 
 namespace Read_Bulks_TPS_RestAPI.Repositories
 {
+    // Stub method to generate data for TPS
     public class PurchaseRepository : IPurchaseRepository
     {
         public Task<List<Purchase>> PurchaseStubList()

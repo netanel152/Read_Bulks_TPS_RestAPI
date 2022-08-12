@@ -17,6 +17,7 @@ namespace Read_Bulks_TPS_RestAPI.Controllers
             _purchaseManager = purchaseManager;
         }
 
+        //Post request to get data from Stub list
         [HttpPost("getBulkPurchases")]
         public async Task<IActionResult> GetBulkPurchases(RequestBulkPurchase request)
         {
