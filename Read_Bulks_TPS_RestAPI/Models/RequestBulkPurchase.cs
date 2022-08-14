@@ -3,7 +3,7 @@
     // Request data to send to backand
     public class RequestBulkPurchase
     {
-        public DateTime StartFrom { get; set; }
+        public DateTimeOffset StartFrom { get; set; }
         public int BulkAmount { get; set; }
     }
 }

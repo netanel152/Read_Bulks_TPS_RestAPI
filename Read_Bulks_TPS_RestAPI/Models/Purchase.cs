@@ -5,6 +5,6 @@
     {
         public int ItemNo { get; set; }
         public double Amount { get; set; }
-        public DateTime PurchaseDate  { get; set; }    
+        public DateTimeOffset PurchaseDate  { get; set; }    
     }
 }
